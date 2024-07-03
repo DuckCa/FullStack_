@@ -1,0 +1,26 @@
+{
+  "name": "full-backend-zero",
+  "version": "1.0.0",
+  "description": "FullStack Backend zero",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Day2_Helloworld_Advanced\\server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DuckCa/FullStack_.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Duck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DuckCa/FullStack_/issues"
+  },
+  "homepage": "https://github.com/DuckCa/FullStack_#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
